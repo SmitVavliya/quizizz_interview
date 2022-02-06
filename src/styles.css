@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.verticleLine {
+  height: auto;
+  width: 2px;
+  background-color: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.verticleLine:hover {
+  background-color: steelblue;
+}
